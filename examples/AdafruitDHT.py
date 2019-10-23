@@ -1,7 +1,7 @@
 #!/usr/bin/python
 # Copyright (c) 2014 Adafruit Industries
 # Author: Tony DiCola
-
+#123
 # Permission is hereby granted, free of charge, to any person obtaining a copy
 # of this software and associated documentation files (the "Software"), to deal
 # in the Software without restriction, including without limitation the rights
@@ -53,4 +53,4 @@ while True:
     		print('Temp={0:0.1f}*  Humidity={1:0.1f}%'.format(t0, h0))
 	else:
     		print('Failed to get reading. Try again!')
-	sys.exit(1)
+		sys.exit(1)
