@@ -22,8 +22,8 @@ import http.client as http
 import urllib
 import json
 import Adafruit_DHT
-deviceId = "D0k39k2H"
-deviceKey = "zGyzQBe0EnFUA3Ej" 
+deviceId = "Dw50zW9r"
+deviceKey = "PoTAOlvLBK5U9FUr" 
 def post_to_mcs(payload): 
 	headers = {"Content-type": "application/json", "deviceKey": deviceKey} 
 	not_connected = 1 
